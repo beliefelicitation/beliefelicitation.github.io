@@ -1,6 +1,3 @@
-theme: jekyll-theme-cayman
+theme: just-the-docs/just-the-docs
 title: Click and drag elicitation tool
 description: Click and drag elicitation tool
-github:
-  zip_url: https://github.com/beliefelicitation/graph
-  another_url: https://beliefelicitation.herokuapp.com/demo
