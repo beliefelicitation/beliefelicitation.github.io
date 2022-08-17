@@ -1,0 +1,28 @@
+<div style="position: relative;">
+  <figure class="highcharts-figure">
+    <div id="container"></div>
+  </figure>
+
+  <div class=button>
+  <button id="undo" class="btn btn-warning" disabled>Undo</button>
+  <button id="reset" class=" btn btn-danger" disabled>Reset</button>
+  <button id="activebin" class=" btn btn-info">Bins mode</button>
+  <button id="curve" class="  btn btn-info" style="display:none">Point mode</button>
+  </div>
+  <textarea id="showdata" name="showdata"  style="height: 200px;
+      width: 100%;
+      text-align: center;
+      border: none;
+      font-size: 12px;
+      background-color: #101010;
+      padding: 20px;
+      color: #808080;
+      font-family: monospace; ">
+  </textarea>
+</div>
+
+<script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
+      <script src="https://code.highcharts.com/highcharts.js"></script>
+<script src="https://code.highcharts.com/modules/draggable-points.js"></script>
+<script src="https://code.highcharts.com/themes/gray.js"></script>
+    <script src="assets/dist/js/bootstrap.bundle.min.js"></script>
