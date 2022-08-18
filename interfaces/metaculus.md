@@ -1,7 +1,7 @@
 ---
 layout: default
-title: Metaculus interface
+title: Distribution interface
 parent: Elicitation interfaces
 nav_order: 4
 ---
-# Metaculus interface
+# Distribution interface

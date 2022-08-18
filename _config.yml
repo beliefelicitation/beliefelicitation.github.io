@@ -15,7 +15,7 @@ remote_theme: just-the-docs/just-the-docs
 # you will see them accessed via {{ site.title }}, {{ site.github_repo }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: Elicitation tool
+title: Click-and-Drag belief elicitation
 description: Click and drag elicitation tool documentation
 
 permalink: pretty
@@ -23,6 +23,8 @@ exclude:
   [
     "node_modules/",
     "*.gemspec",
+    ".gitignore",
+    "*.Rproj",
     "*.gem",
     "Gemfile",
     "Gemfile.lock",
@@ -92,6 +94,8 @@ nav_sort: case_sensitive # Capital letters sorted before lowercase
 
 # External navigation links
 nav_external_links:
+  - title: Get the paper!
+    url: http://www.sticazzi.it
   - title: Otree code on GitHub
     url: https://github.com/beliefelicitation/otree-elicitation-tool
   - title: Otree app demo
