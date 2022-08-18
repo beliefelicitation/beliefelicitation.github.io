@@ -1,5 +1,5 @@
 var min = 0;
-var nb_bins = 10;
+var nb_bins = 20;
 var step = 0.5;//(max-min)/(nb_bins-1);
 var max = min + nb_bins*step;
 var zoom_area = 1.5;
@@ -405,7 +405,7 @@ var chartoptions = {
 				//tickPixelInterval : 100,
 				tickPositions : tickPositions(),
 								labels: {
-                format: '{value}°',
+                format: '{value}%',
                 style: {
                     fontSize: '10px'
                 },
