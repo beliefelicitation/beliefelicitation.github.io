@@ -4,17 +4,17 @@ nav_order: 3
 
 # The performance comparison paper
 
-[Get the full paper](ADD%20LINK){: .btn .btn-primary .fs-5 .mb-4 .mb-md-0 .mr-2 } [Get the data and scripts to replicate the analysis](https://github.com/paolocrosetto/Click_and_drag_belief_elicitation_data_analysis){: .btn .fs-5 .mb-4 .mb-md-0 } [Browse the pre-registration](https://osf.io/ft3s6){: .btn .fs-5 .mb-4 .mb-md-0 }
+[Get the full paper](https://www.dropbox.com/s/d0j0sa6nkn0ybuy/Crosetto_De_Haan_Eliciting_beliefs_when_the_distribution_matters_a_horse_race_of_tools.pdf?dl=1){: .btn .btn-primary .fs-5 .mb-4 .mb-md-0 .mr-2 } [Get the data and scripts to replicate the analysis](https://github.com/paolocrosetto/Click_and_drag_belief_elicitation_data_analysis){: .btn .fs-5 .mb-4 .mb-md-0 } [Browse the pre-registration](https://osf.io/ft3s6){: .btn .fs-5 .mb-4 .mb-md-0 }
 
 ## Aim of the paper
 
-We think that a belief elicitation interface should be
+We think that a belief elicitation interface should:
 
--   easy to understand
--   allow for all sort of beliefs, from simple point estimates to bimodal distributions and more
--   manage **not to** get in the way of subjects
--   help subjects easily express what they believe
--   be fast, responsive, and accurate
+-   be **easy to understand**;
+-   allow for **all sort of beliefs**, from simple point estimates to bimodal distributions and more, without imposing any structure;
+-   manage **not to get in the way** of subjects;
+-   **help subjects** easily express what they believe;
+-   be **fast**, **responsive**, and **accurate**.
 
 There are several interfaces out there. Which one is the best according to the above criteria? We ran a test to find out.
 
@@ -26,7 +26,7 @@ We test our newly developed Click-and-Drag interface against the state of the ar
 -   multiple sliders
 -   a distribution-manipulation interface similar to the one used at Metaculus
 
-We asked 360 MTurkers to mimic a given distribution. It looks like this:
+We asked 372 MTurkers to mimic a given distribution. It looks like this:
 
 ![](Paper_summary_for_website_files/figure-html/task_screenshot.png)
 
@@ -113,10 +113,10 @@ Click-and-Drag comes on top of all self-reported assessment (even if most of the
 
 ### Get the paper
 
-You can find the paper, with all the details, more results, statistical tests, and further exploration of the interfaces' performance, here: ADD LINK TO PAPER.
+You can find the paper, with all the details, more results, statistical tests, and further exploration of the interfaces' performance [here](https://www.dropbox.com/s/d0j0sa6nkn0ybuy/Crosetto_De_Haan_Eliciting_beliefs_when_the_distribution_matters_a_horse_race_of_tools.pdf?dl=1.)
 
 ### Get the software
 
-Find the oTree code for each of the four interfaces here: https://github.com/beliefelicitation/otree-elicitation-tool
+Find the oTree code for each of the four interfaces [here](https://github.com/beliefelicitation/otree-elicitation-tool) 
 
-Try it out yourself on our oTree demo here: https://beliefelicitation.herokuapp.com/demo
+Try it out yourself on our oTree demo [here](https://beliefelicitation.herokuapp.com/demo)
