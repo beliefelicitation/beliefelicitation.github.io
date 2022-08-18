@@ -1,7 +1,7 @@
 ---
-nav_order: 1
+nav_order: 2
 ---
 
-# The paper: an MTurk test of the performance of 4 belief elicitation interfaces
+# The performance comparison paper
 
 
