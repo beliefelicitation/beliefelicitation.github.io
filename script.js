@@ -1,6 +1,6 @@
 var min = 0;
-var nb_bins = 70;
-var step = 2;//(max-min)/(nb_bins-1);
+var nb_bins = 10;
+var step = 0.5;//(max-min)/(nb_bins-1);
 var max = min + nb_bins*step;
 var zoom_area = 1.5;
 
@@ -397,7 +397,7 @@ var chartoptions = {
    }, {
       id: 'second',
 		title: {
-            text: 'Brent price on Jan 1st, 2025'
+            text: 'What will inflation in 2023 in the Euro Area be?'
         }, 
 				//tickInterval : step,
 				//tickAmount: nb_bins,
