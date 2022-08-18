@@ -4,7 +4,7 @@ nav_order: 3
 
 # The performance comparison paper
 
-
+[Get the full paper](ADD%20LINK){: .btn .btn-primary .fs-5 .mb-4 .mb-md-0 .mr-2 } [Get the data and scripts to replicate the analysis](https://github.com/paolocrosetto/Click_and_drag_belief_elicitation_data_analysis){: .btn .fs-5 .mb-4 .mb-md-0 } [Browse the pre-registration](https://osf.io/ft3s6){: .btn .fs-5 .mb-4 .mb-md-0 }
 
 ## Aim of the paper
 
@@ -28,15 +28,17 @@ We test our newly developed Click-and-Drag interface against the state of the ar
 
 We asked 360 MTurkers to mimic a given distribution. It looks like this:
 
-ADD IMAGE
+![](Paper_summary_for_website_files/figure-html/task_screenshot.png)
 
-Subjects must simply try to mimic as close as possible the given target distribution. The closer they get, the more they earn. \
-\
-They face screens with symmetric, asymmetric, bimodal, and complex distributions; with 7, 15 or 30 bins; and thye are given 45 or 15 seconds per screen.
+Subjects must simply try to mimic as close as possible the given target distribution. The closer they get, the more they earn.
+
+They face screens with symmetric, asymmetric, bimodal, and complex distributions; with 7, 15 or 30 bins; and they are given 45 or 15 seconds per screen. Here are all the screens subjects had to mimic:
+
+![](Paper_summary_for_website_files/figure-html/12screens.png)
 
 We also collect subjective data on ease of use, frustration and understanding.
 
-We pre-registered the experiment, here ADDLINK, with a simple set of hypotheses: Click-and-Drag will outperform all other interfaces.
+We pre-registered the experiment (here <https://osf.io/ft3s6>), with a simple set of hypotheses: Click-and-Drag will outperform all other interfaces.
 
 ### Sample
 
@@ -86,23 +88,24 @@ We recruit 372 MTurkers -- on average middle-aged, mostly male, that on average 
   </tr>
 </tbody>
 </table>
+
 ### Accuracy
 
-The main indicator is accuracy: how good are subjects at mimicking the target distribution in the allotted time? It turns out Click-and-Drag sports the highest accuracy overall, and when breaking screens down by their type, granularity, and allotted time. 
+The main indicator is accuracy: how good are subjects at mimicking the target distribution in the allotted time? It turns out Click-and-Drag sports the highest accuracy overall, and when breaking screens down by their type, granularity, and allotted time.
 
 ![](Paper_summary_for_website_files/figure-html/unnamed-chunk-2-1.png)<!-- -->
 
 ### Speed
 
-An interface is good if it allows for a good accuracy, but also if it does so in a limited amount of time. Is it easy to draw the main strokes of one's beliefs or is it a long and painful exercise? How fast do subjects converge to the best accuracy? 
+An interface is good if it allows for a good accuracy, but also if it does so in a limited amount of time. Is it easy to draw the main strokes of one's beliefs or is it a long and painful exercise? How fast do subjects converge to the best accuracy?
 
-It turns out Click-and-Drag allows for a faster convergence than all other shapes. In this plot we draw accuracy at each point in time for each belief elicitation interface. Distribution starts with an unfair advantage, as it does not start with a blank sheet but with a normal-looking distribution; still, its slope -- the speed of convergnece -- is the lowest of them all. 
+It turns out Click-and-Drag allows for a faster convergence than all other shapes. In this plot we draw accuracy at each point in time for each belief elicitation interface. Distribution starts with an unfair advantage, as it does not start with a blank sheet but with a normal-looking distribution; still, its slope -- the speed of convergnece -- is the lowest of them all.
 
 ![](Paper_summary_for_website_files/figure-html/unnamed-chunk-3-1.png)<!-- -->
 
 ### Self-reported assessment
 
-But how do subjects themselves rate the interfaces? We asked three questions about the ease of understanding, ease of use, and generated frustration. 
+But how do subjects themselves rate the interfaces? We asked three questions about the ease of understanding, ease of use, and generated frustration.
 
 Click-and-Drag comes on top of all self-reported assessment (even if most of the differences are not significant).
 
@@ -110,10 +113,10 @@ Click-and-Drag comes on top of all self-reported assessment (even if most of the
 
 ### Get the paper
 
-You can find the paper, with all the details, more results, statistical tests, and further exploration of the interfaces' performance, here: ADD LINK TO PAPER. 
+You can find the paper, with all the details, more results, statistical tests, and further exploration of the interfaces' performance, here: ADD LINK TO PAPER.
 
 ### Get the software
 
-Find the oTree code for each of the four interfaces here: ADD LINK TO CODE
+Find the oTree code for each of the four interfaces here: https://github.com/beliefelicitation/otree-elicitation-tool
 
-Try it out yourself on our oTree demo here: ADD LINK TO OTREE DEMO
+Try it out yourself on our oTree demo here: https://beliefelicitation.herokuapp.com/demo
