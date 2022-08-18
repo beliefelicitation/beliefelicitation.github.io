@@ -1,6 +1,6 @@
 var min = 0;
-var nb_bins = 150;
-var step = 2.5;//(max-min)/(nb_bins-1);
+var nb_bins = 70;
+var step = 2;//(max-min)/(nb_bins-1);
 var max = min + nb_bins*step;
 var zoom_area = 1.5;
 
