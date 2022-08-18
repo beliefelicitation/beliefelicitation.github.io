@@ -95,7 +95,7 @@ nav_sort: case_sensitive # Capital letters sorted before lowercase
 # External navigation links
 nav_external_links:
   - title: Get the paper!
-    url: http://www.sticazzi.it
+    url: https://www.dropbox.com/s/d0j0sa6nkn0ybuy/Crosetto_De_Haan_Eliciting_beliefs_when_the_distribution_matters_a_horse_race_of_tools.pdf?dl=1
   - title: Otree code on GitHub
     url: https://github.com/beliefelicitation/otree-elicitation-tool
   - title: Otree app demo
