@@ -15,5 +15,9 @@ Welcome!
 [Try our Otree Apps](https://beliefelicitation.herokuapp.com/demo){: .btn .btn-primary .fs-5 .mb-4 .mb-md-0 .mr-2 } [Download the code on GitHub](https://github.com/beliefelicitation/otree-elicitation-tool){: .btn .fs-5 .mb-4 .mb-md-0 }
 
 ---
-{% include chart.html %}
----
+
+{% include top.html %}
+
+{% include click-drag.html %}
+
+{% include bottom.html %}
