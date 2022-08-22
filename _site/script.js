@@ -501,7 +501,7 @@ var chartoptions = {
     },
     chart: {
 		className: 'pointChart',
-        margin: [10, 0, 30, 50],
+        margin: [10, 0, 50, 60],
         events: {
 
 
@@ -589,7 +589,9 @@ var chartoptions = {
 
 					}
     },
-    title: false,
+	title: {
+		text:''
+	},
     accessibility: {
         announceNewData: {
             enabled: true
@@ -603,7 +605,7 @@ var chartoptions = {
       id: 'second',
 		visible : xAxis_visible(),
 		title: {
-            text: ''
+            text: 'What will inflation in 2023 in the Euro Area be?'
         },
 
 
@@ -645,7 +647,7 @@ var chartoptions = {
     	visible : true,
 
         title: {
-            text: ''
+            text: 'Probability'
         },
 			labels: {
                 formatter: function () {

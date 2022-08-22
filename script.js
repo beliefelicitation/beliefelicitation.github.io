@@ -501,7 +501,7 @@ var chartoptions = {
     },
     chart: {
 		className: 'pointChart',
-        margin: [10, 0, 30, 50],
+        margin: [10, 0, 50, 60],
         events: {
 
 
@@ -589,7 +589,9 @@ var chartoptions = {
 
 					}
     },
-    title: false,
+	title: {
+		text:''
+	},
     accessibility: {
         announceNewData: {
             enabled: true

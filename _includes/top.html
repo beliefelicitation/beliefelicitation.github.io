@@ -30,7 +30,7 @@
     font-size: 12px;
 }
 .binslider{
-	height : 360px;
+	height : 340px;
     display: inline-block;
         margin-left: 0.2%;
     margin-right: 0.2%;
@@ -41,7 +41,7 @@
 }
 #binsliders{
     padding-right: 0px;
-    padding-left: 50px;
+    padding-left: 60px;
     padding-top: 10px;
     position: absolute;
     z-index: 1;
@@ -88,7 +88,7 @@
 }
 #binsinput{
     margin-right: 0px;
-    margin-left: 50px;
+    margin-left: 60px;
 }
 #container{
    height: 400px;
@@ -116,7 +116,7 @@
 #sliders .slider {
     height: 10px;
 	margin-bottom: 10px;
-        	margin-left: 80px;
+    margin-left: 90px;
 
 }
 #sliders{
@@ -179,11 +179,22 @@ display: none;
     /*position: absolute;*/
     left: 120px;
      top:0px;
+    padding-left: 60px;
     z-index: 1;
     }
 
 .justify-content-around {
     justify-content: space-around!important;
+}
+input::-webkit-outer-spin-button,
+input::-webkit-inner-spin-button {
+    /* display: none; <- Crashes Chrome on hover */
+    -webkit-appearance: none;
+    margin: 0; /* <-- Apparently some margin are still there even though it's hidden */
+}
+
+input[type=number] {
+    -moz-appearance:textfield; /* Firefox */
 }
     
 </style>
