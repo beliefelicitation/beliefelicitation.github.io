@@ -16,6 +16,8 @@ Welcome!
 
 ---
 
+Predict using the interface: what will the **inflation** in the **Euro Area** in **2023** be? 
+
 {% include top.html %}
 
 {% include click-drag.html %}
