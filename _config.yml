@@ -82,8 +82,8 @@ heading_anchors: true
 
 # Aux links for the upper right navigation
 aux_links:
-  "Code on GitHub":
-    - "//github.com/beliefelicitation/otree-elicitation-tool"
+  "Code on oTree Hub":
+    - "https://www.otreehub.com/projects/beliefelicitation/"
 
 # Makes Aux links open in a new tab. Default is false
 aux_links_new_tab: false
@@ -96,8 +96,8 @@ nav_sort: case_sensitive # Capital letters sorted before lowercase
 nav_external_links:
   - title: Get the paper!
     url: https://www.dropbox.com/s/d0j0sa6nkn0ybuy/Crosetto_De_Haan_Eliciting_beliefs_when_the_distribution_matters_a_horse_race_of_tools.pdf?dl=1
-  - title: Otree code on GitHub
-    url: https://github.com/beliefelicitation/otree-elicitation-tool
+  - title: Otree code on oTree Hub
+    url: https://www.otreehub.com/projects/beliefelicitation/
   - title: Otree app demo
     url: https://beliefelicitation.herokuapp.com/demo
 
