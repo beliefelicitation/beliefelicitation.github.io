@@ -12,7 +12,7 @@ nav_order: 3
 
 ---
 
-## Comparing input interfaces to elicit belief distributions
+# Comparing input interfaces to elicit belief distributions
 ## by [Paolo Crosetto](https://paolocrosetto.wordpress.com/) and [Thomas De Haan](https://sites.google.com/view/thomas-de-haan)
 
 ---
@@ -132,4 +132,4 @@ Find the oTree code for each of the four interfaces [here](https://github.com/be
 
 Try it out yourself on our oTree demo [here](https://beliefelicitation.herokuapp.com/demo)
 
-COmments? Questions on how to implement this for your own experiment? [Contact us!](mailto:paolo.crosetto@gmail.com?subject=[Click-and-Drag]%20Contact&cc=thomas.deHaan@uib.no&target=_blank)
+Comments? Questions on how to implement this for your own experiment? [Contact us!](mailto:paolo.crosetto@gmail.com?subject=[Click-and-Drag]%20Contact&cc=thomas.deHaan@uib.no&target=_blank)
