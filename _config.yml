@@ -17,6 +17,7 @@ remote_theme: just-the-docs/just-the-docs
 # in the templates via {{ site.myvariable }}.
 title: Click-and-Drag belief elicitation
 description: Click and drag elicitation tool documentation
+email: paolo.crosetto@gmail.com
 
 permalink: pretty
 exclude:
@@ -94,6 +95,8 @@ nav_sort: case_sensitive # Capital letters sorted before lowercase
 
 # External navigation links
 nav_external_links:
+  - title: Contact us!
+    url: mailto:paolo.crosetto@gmail.com?subject=[Contact from Click-and-Drag website]%20Base Leisure&cc=thomas.deHaan@uib.no
   - title: Get the paper!
     url: https://www.dropbox.com/s/d0j0sa6nkn0ybuy/Crosetto_De_Haan_Eliciting_beliefs_when_the_distribution_matters_a_horse_race_of_tools.pdf?dl=1
   - title: Otree code on oTree Hub
