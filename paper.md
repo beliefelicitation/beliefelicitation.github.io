@@ -10,6 +10,13 @@ nav_order: 3
 
 [Browse the pre-registration](https://osf.io/ft3s6){: .btn .fs-5 .mb-4 .mb-md-0 }
 
+---
+
+## Comparing input interfaces to elicit belief distributions
+## by Paolo Crosetto and Thomas De Haan
+
+---
+
 ## Aim of the paper
 
 We think that a belief elicitation interface should:
