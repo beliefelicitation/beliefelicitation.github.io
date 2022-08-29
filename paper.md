@@ -13,7 +13,7 @@ nav_order: 3
 ---
 
 ## Comparing input interfaces to elicit belief distributions
-## by Paolo Crosetto and Thomas De Haan
+## by [Paolo Crosetto](https://paolocrosetto.wordpress.com/) and [Thomas De Haan](https://sites.google.com/view/thomas-de-haan)
 
 ---
 
@@ -131,3 +131,5 @@ You can find the paper, with all the details, more results, statistical tests, a
 Find the oTree code for each of the four interfaces [here](https://github.com/beliefelicitation/otree-elicitation-tool) 
 
 Try it out yourself on our oTree demo [here](https://beliefelicitation.herokuapp.com/demo)
+
+COmments? Questions on how to implement this for your own experiment? [Contact us!](mailto:paolo.crosetto@gmail.com?subject=[Click-and-Drag]%20Contact&cc=thomas.deHaan@uib.no&target=_blank)
