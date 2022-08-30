@@ -33,9 +33,9 @@ There are several interfaces out there. Which one is the best according to the a
 
 We test our newly developed Click-and-Drag interface against the state of the art in the experimental economics literature and in the online forecasting industry:
 
--   a text-based interface
--   multiple sliders
--   a distribution-manipulation interface similar to the one used at Metaculus
+-   a text-based interface ([try it here](https://beliefelicitation.github.io/interfaces/number/)){:taget="_blank"}
+-   multiple sliders ([try it here](https://beliefelicitation.github.io/interfaces/slider/)){:taget="_blank"}
+-   a distribution-manipulation interface similar to the one used at Metaculus ([try it here](https://beliefelicitation.github.io/interfaces/metaculus/)){:taget="_blank"}
 
 We asked 372 MTurkers to mimic a given distribution. It looks like this:
 
