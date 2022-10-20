@@ -95,16 +95,19 @@ nav_sort: case_sensitive # Capital letters sorted before lowercase
 
 # External navigation links
 nav_external_links:
+  - title: Qualtrics plugin code on github
+    url: https://github.com/beliefelicitation/qualtrics
+  - title: Otree code on oTree Hub
+    url: https://www.otreehub.com/projects/beliefelicitation/
+  - title: Otree app demo
+    url: https://beliefelicitation.herokuapp.com/demo    
   - title: Contact us!
     url: mailto:paolo.crosetto@gmail.com?subject=[Click-and-Drag]%20Contact&cc=thomas.deHaan@uib.no&target=_blank
   - title: Get the paper!
     url: https://www.dropbox.com/s/d0j0sa6nkn0ybuy/Crosetto_De_Haan_Eliciting_beliefs_when_the_distribution_matters_a_horse_race_of_tools.pdf?dl=1
   - title: ESA Bologna presentation
     url: https://www.dropbox.com/s/5046qxqiw7q5t5w/ESA.html?dl=0
-  - title: Otree code on oTree Hub
-    url: https://www.otreehub.com/projects/beliefelicitation/
-  - title: Otree app demo
-    url: https://beliefelicitation.herokuapp.com/demo
+
 
 # Footer content
 # appears at the bottom of every page's main content
