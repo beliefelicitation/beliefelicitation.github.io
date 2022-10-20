@@ -4,7 +4,7 @@ nav_order: 2
 
 # The performance comparison paper
 
-[Get the full paper](https://www.dropbox.com/s/d0j0sa6nkn0ybuy/Crosetto_De_Haan_Eliciting_beliefs_when_the_distribution_matters_a_horse_race_of_tools.pdf?dl=1){: .btn .btn-primary .fs-5 .mb-4 .mb-md-0 .mr-2 }
+[Get the full paper](https://ekstern.filer.uib.no/svf/Econ%20web/2022/08%202022.pdf){: .btn .btn-primary .fs-5 .mb-4 .mb-md-0 .mr-2 }
 
 [Get the data and scripts to replicate the analysis](https://github.com/paolocrosetto/Click_and_drag_belief_elicitation_data_analysis){: .btn .fs-5 .mb-4 .mb-md-0 }
 
