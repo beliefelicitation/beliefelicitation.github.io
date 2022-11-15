@@ -1,14 +1,21 @@
 ---
-nav_order: 3
+nav_order: 2
 ---
 
 # The performance comparison paper
 
-[Get the full paper](https://www.dropbox.com/s/d0j0sa6nkn0ybuy/Crosetto_De_Haan_Eliciting_beliefs_when_the_distribution_matters_a_horse_race_of_tools.pdf?dl=1){: .btn .btn-primary .fs-5 .mb-4 .mb-md-0 .mr-2 }
+[Get the full paper](https://ekstern.filer.uib.no/svf/Econ%20web/2022/08%202022.pdf){: .btn .btn-primary .fs-5 .mb-4 .mb-md-0 .mr-2 }
 
 [Get the data and scripts to replicate the analysis](https://github.com/paolocrosetto/Click_and_drag_belief_elicitation_data_analysis){: .btn .fs-5 .mb-4 .mb-md-0 }
 
 [Browse the pre-registration](https://osf.io/ft3s6){: .btn .fs-5 .mb-4 .mb-md-0 }
+
+---
+
+# Comparing input interfaces to elicit belief distributions
+## by [Paolo Crosetto](https://paolocrosetto.wordpress.com/) and [Thomas De Haan](https://sites.google.com/view/thomas-de-haan)
+
+---
 
 ## Aim of the paper
 
@@ -26,9 +33,9 @@ There are several interfaces out there. Which one is the best according to the a
 
 We test our newly developed Click-and-Drag interface against the state of the art in the experimental economics literature and in the online forecasting industry:
 
--   a text-based interface
--   multiple sliders
--   a distribution-manipulation interface similar to the one used at Metaculus
+-   a text-based interface ([try it here](https://beliefelicitation.github.io/interfaces/number/))
+-   multiple sliders ([try it here](https://beliefelicitation.github.io/interfaces/slider/))
+-   a distribution-manipulation interface similar to the one used at Metaculus ([try it here](https://beliefelicitation.github.io/interfaces/metaculus/))
 
 We asked 372 MTurkers to mimic a given distribution. It looks like this:
 
@@ -124,3 +131,5 @@ You can find the paper, with all the details, more results, statistical tests, a
 Find the oTree code for each of the four interfaces [here](https://github.com/beliefelicitation/otree-elicitation-tool) 
 
 Try it out yourself on our oTree demo [here](https://beliefelicitation.herokuapp.com/demo)
+
+Comments? Questions on how to implement this for your own experiment? [Contact us!](mailto:paolo.crosetto@gmail.com?subject=[Click-and-Drag]%20Contact&cc=thomas.deHaan@uib.no&target=_blank)
