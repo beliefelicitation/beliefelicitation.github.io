@@ -97,6 +97,8 @@ nav_sort: case_sensitive # Capital letters sorted before lowercase
 nav_external_links:
   - title: Qualtrics plugin on github
     url: https://github.com/beliefelicitation/qualtrics
+  - title: Limesurvey plugin on github
+    url: https://github.com/beliefelicitation/qualtrics    
   - title: Otree code on oTree Hub
     url: https://www.otreehub.com/projects/beliefelicitation/
   - title: Otree app demo
