@@ -10,6 +10,8 @@ nav_order: 2
 
 [Browse the pre-registration](https://osf.io/ft3s6){: .btn .fs-5 .mb-4 .mb-md-0 }
 
+[Get teh oTree experimental software to replicate the experiment](https://github.com/beliefelicitation/mturk){: .btn .fs-5 .mb-4 .mb-md-0 }
+
 ---
 
 # Comparing input interfaces to elicit belief distributions
