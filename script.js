@@ -578,7 +578,7 @@ let model_data = [1, 0];
                      id: 'second',
                      visible: xAxis_visible(),
                      title: {
-                         text: 'What will inflation in 2023 in the Euro Area be?'
+                         text: 'What will inflation in 2026 in the Euro Area be?'
                      },
 
 

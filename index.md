@@ -23,7 +23,7 @@ This website presents the Click-and-Drag belief elicitation interface by [Thomas
 
 ---
 
-Predict using the interface: what will the **inflation** in the **Euro Area** in **2023** be? 
+Predict using the interface: what will the **inflation** in the **Euro Area** in **2026** be? 
 
 {% include top.html %}
 
